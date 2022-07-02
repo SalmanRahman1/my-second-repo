@@ -1,0 +1,22 @@
+h1{
+    color: aqua;
+
+}
+h2{
+    background-color: blueviolet;
+    height: 50px;
+    width: 25%;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h3{
+    background-color: chartreuse;
+    height: 50px;
+    width: 25%;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
